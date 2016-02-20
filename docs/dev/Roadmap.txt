@@ -1,0 +1,10 @@
+Next Release
+    Alpha
+
+Goals
+    Work toward an Alpha release, learn more Python.
+
+Exit Criteria
+    Executable which opens an interactive console window.
+    Console window accepts and parses user commands.
+    Personal Log read-write functionality using JSON.

@@ -1,0 +1,17 @@
+TrekLog.exe is built using PyInstaller (http://www.pyinstaller.org/).
+
+Windows
+    *  PyInstaller is easiest to install with Pip-Win
+    (https://sites.google.com/site/pydatalog/python/pip-for-windows).
+    *  Download and execute the "pip-win_X.Y.exe" binary, or use the provided
+       binary under "tools/windows/pip-win".
+    *  Use Pip-Win to install "pypiwin32" and "venv".
+    *  Then, use Pip-Win to install "PyInstaller".
+    *  From command line, run "src/build.cmd"
+
+Linux
+    //TODO: Linux build instructions
+
+Mac
+    //TODO: Mac build instructions
+    //NEED: a Mac
