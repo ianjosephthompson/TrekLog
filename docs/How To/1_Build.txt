@@ -1,0 +1,17 @@
+TrekLog.exe is built using PyInstaller (http://www.pyinstaller.org/).
+
+Windows
+  * Install Python and Git Bash
+      *  Please see "docs/How To/0_Dev.txt"
+  * PyInstaller is easiest to install with pip (please see "docs/How To/0_Dev.txt")
+      * In a termainal:
+          * cd "tools/windows/pip"
+          * python get-pip.py
+          * pip install -U pyinstaller
+
+Linux
+    //TODO: Linux build instructions
+
+Mac
+    //TODO: Mac build instructions
+    //NEED: a Mac

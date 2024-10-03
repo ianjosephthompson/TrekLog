@@ -1,0 +1,20 @@
+TrekLog is developed according to the UNIX philosophy, but intended to be
+cross-platform.  Therefore, it leverages those UNIX tools available on Windows
+as much as possible - such as Git Bash.  Python was selected as the most inter-
+operable language for writting a text-based, interactive command-line program.
+
+The TrekLog project is managed with git and hosted on GitHub.
+
+Windows
+  * Install Python
+      * Download and install from the web https://www.python.org/
+        or use the provided binary under "tools/windows/python"
+  * Install Git Bash
+      * Downlaod and install from the web https://git-scm.com/downloads/win
+        or use the probvided binary under "tools/windows/git-bash"
+
+Linux
+    //TODO
+
+Mac
+    //TODO

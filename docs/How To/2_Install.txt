@@ -1,0 +1,7 @@
+TrekLog is built on Python 3.12
+
+You can execute the "src/TrekLog/TrekLog.py" module directly, import it into
+your own project, or run the "build/TrekLog.exe" (does not require Python).
+
+//TODO
+//  Windows, Linux, and Mac specific instructions
